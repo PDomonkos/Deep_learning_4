@@ -6,27 +6,16 @@ First download the validation.zip from here https://www.figure-eight.com/dataset
 
     dataset
       train
-      
           0
-          
           1
-          
           2
-          
       valid
-      
           0
-          
           1
-          
           2
-          
       test
-      
           0
-          
           1
-          
           2
 
 Then run the load_data.ipynb, it will fill the folders with the images needed.
