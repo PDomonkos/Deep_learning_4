@@ -4,8 +4,7 @@ Get the data:
 
 First download the validation.zip from here https://www.figure-eight.com/dataset/open-images-annotated-with-bounding-boxes/, then create these folders:
 
-  dataset
-  
+    dataset
       train
       
           0
@@ -30,7 +29,7 @@ First download the validation.zip from here https://www.figure-eight.com/dataset
           
           2
 
-It will generate a folder structure with the images needed.
+Then run the load_data.ipynb, it will fill the folders with the images needed.
 
   0 => car
   
