@@ -2,7 +2,33 @@
 
 Get the data:
 
-First download the validation.zip from here https://www.figure-eight.com/dataset/open-images-annotated-with-bounding-boxes/, then run the load_data.ipynb.
+First download the validation.zip from here https://www.figure-eight.com/dataset/open-images-annotated-with-bounding-boxes/, then create these folders:
+
+  dataset
+  
+      train
+      
+          0
+          
+          1
+          
+          2
+          
+      valid
+      
+          0
+          
+          1
+          
+          2
+          
+      test
+      
+          0
+          
+          1
+          
+          2
 
 It will generate a folder structure with the images needed.
 
