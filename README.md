@@ -5,8 +5,11 @@ Get the data:
 First download the validation.zip from here https://www.figure-eight.com/dataset/open-images-annotated-with-bounding-boxes/.
 Then run the load_data.ipynb.
 It will generate a folder structure with the images needed.
+
   0 => car
+  
   1 => sport
+  
   2 => dog
 
 Train:
